@@ -1,0 +1,31 @@
+body{ 
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   background-image: url(../images/BackgroundImage.png);
+}
+header{
+    height: 50px;
+    width: 1365px;
+    background-color: whitesmoke;
+    border-radius: 40px;
+    display: flex;
+    gap: 500px;
+    margin-top: 8px;
+}
+header .logo{
+    margin-left: 30px;
+    display: flex;
+    gap: 10px;
+    align-content: center;
+}
+header  .Navbar{
+    margin-right:0px ;
+    display: flex;
+    gap: 50px;
+    align-content: center;
+    margin-top: 15px;
+}
+
+
+ 
